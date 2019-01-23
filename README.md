@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Summary
 
-You can use the [editor on GitHub](https://github.com/62random/62random.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Software engineering student finishing degree at [Universidade do Minho](https://www.uminho.pt/).
+Looking for internship/job opportunities as developer to develop experience in areas such as distributed systems and artificial intelligence if possible. Also interested in web developing.
+Hard working, willing to learn from more experienced colleagues and persistent when facing technical challenges.
 
 ### Markdown
 
