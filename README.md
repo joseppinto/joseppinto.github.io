@@ -2,38 +2,13 @@
 
 Software engineering student finishing degree at [Universidade do Minho](https://www.uminho.pt/).
 
-Looking for internship/job opportunities as developer to develop experience in areas such as distributed systems and artificial intelligence if possible. Also interested in web developing.
+Looking for internship/job opportunities as developer to develop experience in areas such as distributed systems and artificial intelligence, if possible. Also interested in web developing.
 
 Hard working, willing to learn from more experienced colleagues and persistent when facing technical challenges.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/62random/62random.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Universidade do Minho](https://www.uminho.pt/), 2016 - 2021
+- High School - [Escola Secundária Carlos Amarante](http://www.aeca.edu.pt/), 2013-2016
+- Secondary School - [Escola E.B. 2,3 de Lamaçães](https://www.aedonamaria.pt/content/escola-basica-de-lamacaes), 2008-2013
+- Elementary School - [Escola E.B. 1 de S. João do Souto](https://www.aedonamaria.pt/content/escola-basica-de-s-joao-do-souto), 2004 - 2008
