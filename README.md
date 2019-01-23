@@ -1,7 +1,9 @@
-## Summary
+# Summary
 
 Software engineering student finishing degree at [Universidade do Minho](https://www.uminho.pt/).
+
 Looking for internship/job opportunities as developer to develop experience in areas such as distributed systems and artificial intelligence if possible. Also interested in web developing.
+
 Hard working, willing to learn from more experienced colleagues and persistent when facing technical challenges.
 
 ### Markdown
