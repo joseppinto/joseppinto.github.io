@@ -8,8 +8,7 @@ Hard working, willing to learn from more experienced colleagues and persistent w
 
 ## Current Occupation
 Nowadays, besides my responsabilities as a student, I participate in activities such as:
-* Volunteer at my university's Software Engineering Student Center, [CeSIUM]
-(http://www.cesium.di.uminho.pt/)
+* Volunteer at my university's Software Engineering Student Center, [CeSIUM](http://www.cesium.di.uminho.pt/)
 * Member of [Tuna Universitária do Minho](https://tum.pt/)
 
 ### Education
