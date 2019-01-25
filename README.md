@@ -6,6 +6,12 @@ Looking for internship/job opportunities as developer to develop experience in a
 
 Hard working, willing to learn from more experienced colleagues and persistent when facing technical challenges.
 
+## Current Occupation
+Nowadays, besides my responsabilities as a student, I participate in activities such as:
+* Volunteer at my university's Software Engineering Student Center, [CeSIUM]
+(http://www.cesium.di.uminho.pt/)
+* Member of [Tuna Universitária do Minho](https://tum.pt/)
+
 ### Education
 
 - University - [Universidade do Minho](https://www.uminho.pt/), 2016 - 2021
