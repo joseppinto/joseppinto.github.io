@@ -1,5 +1,5 @@
 ---
-title: "print(Hello World)"
+title: "./hello_world"
 date: 2019-02-02
 tags: [software engineering]
 excerpt: "Software Engineering student looking for experience"
