@@ -3,6 +3,9 @@ title: "Education"
 permalink: /education/
 ---
 
+Currently, I'm in the third year of [Integrated Master's Degree in Computer Engineering](http://miei.di.uminho.pt/) at University of Minho.
+
+
 These are the insitutions I attended ever since elementary school. Also, most of my projects at university can be found at my [GitHub page](https://github.com/62random).
 
 - University - [Universidade do Minho](https://www.uminho.pt/), 2016 - 2021
