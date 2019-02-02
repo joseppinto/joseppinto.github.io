@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "José Pedro Pinto"
   avatar           : "/img/avatar.png"
-  bio              : "Sfotware Engineering student at Universidade do Minho"
+  bio              : "Software Engineering student at Universidade do Minho"
   location         : "Braga, Portugal"
   email            : josepedropinto98@gmail.com
   links:
@@ -130,7 +130,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jos%C3%A9-pedro-milhazes-carvalho-pinto-b83721139/"
 # Site Footer
 footer:
   links:
