@@ -1,192 +1,78 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: José Pedro Pinto
+  tagline: Data Scientist
+  avatar: profile.jpeg
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+  email: geral@jpedropinto.com
+  phone: +351915410003
+  website: jpedropinto.com
+  linkedin: jpmcp
+  github: joseppinto
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: About Me
+  summary: |
+    I am a data scientist with a software engineering background passionate about learning and technology.
+    My main interests are Machine Learning and Data Science, which have been the core of my early career.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  - degree: BSc in Computer Engineering
+    university: University of Minho
+    time: 2016 - 2019
+    details: |
+      - __Courses__: Calculus, Linear Algebra, Algorithms and Complexity, Operating Systems, Computer Architecture, Functional Programming, Imperative Programming, Object-Oriented Programming, Numerical Optimization.
+
+  - degree: MSc in Computer Engineering
+    university: University of Minho
+    time: 2019 - 2021
+    details: |
+      - Finished with a 17/20 GPA. The main topics I specialized in were:
+        - __Artificial Intelligence__, covering intelligent agents, robotics, machine learning, and data science.
+        - __Parallel and Distributed Computing__, covering advanced computer architectures (manycore processors, GPUs), parallel algorithms, and performance engineering.
+      - __Dissertation:__ Human-Computer Interaction Data Analysis using Deep Learning.
+      - __Publication:__ [Pinto, J.P., Pimenta, A. & Novais, P. Deep learning and multivariate time series for cheat detection in video games. Machine Learning 110, 3037–3057 (2021).](https://rdcu.be/czxhy)
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - role: Data Scientist
+    time: 2021 - Present
+    company: Uphold Inc.
+    company_link: https://uphold.com
+    details: |
+      - Conducted in-depth data analysis and developed dashboards used by leadership as well as by the Product, Marketing, Business Development, and Financial teams to enhance targeting, increase revenue, and allocate resources more efficiently based on key business metrics.
+      - Implemented a recommender system to help millions of users diversify their cryptocurrency investment portfolios.
+      - Designed A/B tests and other controlled experiments to continuously improve features and analyze the impact of new releases. Advocated for the systematic and methodical use of this approach as the ideal standard for decision-making.
+      - Played a key role in the relationship between the Data and Product teams pursuing a data-driven product development process.
+    main_tools: Python, SQL (PostgreSQL & Snowflake), Looker, Metabase, pandas, sklearn.
+  - role: Data Scientist, ML Engineer
+    time: 2020 - 2021
+    company: Anybrain
+    company_link: https://anybrain.gg
+    details: |
+      - Designed a system for cheat detection and continuous authentication in video games using deep learning and multivariate time series.
+      - Developed an end-to-end data science & machine learning pipeline:
+        - ETLs processing user input data (MongoDB, Python, pandas, NumPy);
+        - Data cleaning and feature engineering to produce a dataset of multivariate time series;
+        - Training, hyperparameter optimization, and evaluation of CNNs in fraud detection and continuous authentication (TensorFlow + Keras, sklearn, Optuna);
+        - Serving the trained models through a RESTful API (Java, TensorFlow Java API, SpringBoot, Docker).
+    main_tools: MongoDB, Python, pandas, numpy, TensorFlow + Keras, Optuna, dataiku, Java, Docker, SpringBoot, H2O.ai
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+  - role: Business Intelligence Intern
+    time: 2019 - 2019
+    company: XpandIT
+    company_link: https://www.xpand-it.com
+    details: |
+      - Helped extend the company's internal framework by developing a dashboard to monitor ETL execution logs. The ETL processes were designed, managed, and executed using Pentaho Data Integration.
+    main_tools: Pentaho Data Integration
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  - title: Programming
+    items: Python, SQL, Java, C/C++, R, Haskell, Shell, Javascript, HTML, CSS, Git
+  - title: Data Science & ML
+    items: Pandas, NumPy, TensorFlow + Keras, sklearn, H2O.ai, A/B Testing, Recommender Systems, Fraud Detection, Deep Learning, Statistics, Time Series, Clustering
+  - title: Analytics & Others
+    items: Looker, Excel, ETLs
+  - title: Fluent Languages
+    items: Portuguese, English
+  - title: Other Interests
+    items: Traveling, Reading, Crypto
