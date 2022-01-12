@@ -40,19 +40,19 @@ experiences:
     company_link: https://uphold.com
     details: |
       - Conducted in-depth data analysis and developed dashboards used by leadership as well as by the Product, Marketing, Business Development, and Financial teams to enhance targeting, increase revenue, and allocate resources more efficiently based on key business metrics.
-      - Implemented a recommender system to help millions of users diversify their cryptocurrency investment portfolios.
-      - Designed A/B tests and other controlled experiments to continuously improve features and analyze the impact of new releases. Advocated for the systematic and methodical use of this approach as the ideal standard for decision-making.
-      - Played a key role in the relationship between the Data and Product teams pursuing a data-driven product development process.
+      - Implemented a __recommender system__ to help millions of users diversify their cryptocurrency investment portfolios.
+      - Designed __A/B tests__ and other __controlled experiments__ to continuously improve features and analyze the impact of new releases. Advocated for the systematic and methodical use of this approach as the ideal standard for decision-making.
+      - Played a key role in the relationship between the __Data and Product__ teams pursuing a data-driven product development process.
     main_tools: Python, SQL (PostgreSQL & Snowflake), Looker, Metabase, pandas, sklearn.
   - role: Data Scientist, ML Engineer
     time: 2020 - 2021
     company: Anybrain
     company_link: https://anybrain.gg
     details: |
-      - Designed a system for cheat detection and continuous authentication in video games using deep learning and multivariate time series.
+      - Designed a system for cheat detection and continuous authentication in video games using __deep learning__ and multivariate __time series__.
       - Developed an end-to-end data science & machine learning pipeline:
-        - ETLs processing user input data (MongoDB, Python, pandas, NumPy);
-        - Data cleaning and feature engineering to produce a dataset of multivariate time series;
+        - __ETLs__ processing user input data (MongoDB, Python, pandas, NumPy);
+        - Data cleaning and __feature engineering__ to produce a dataset of multivariate time series;
         - Training, hyperparameter optimization, and evaluation of CNNs in fraud detection and continuous authentication (TensorFlow + Keras, sklearn, Optuna);
         - Serving the trained models through a RESTful API (Java, TensorFlow Java API, SpringBoot, Docker).
     main_tools: MongoDB, Python, pandas, numpy, TensorFlow + Keras, Optuna, dataiku, Java, Docker, SpringBoot, H2O.ai
@@ -62,7 +62,7 @@ experiences:
     company: XpandIT
     company_link: https://www.xpand-it.com
     details: |
-      - Helped extend the company's internal framework by developing a dashboard to monitor ETL execution logs. The ETL processes were designed, managed, and executed using Pentaho Data Integration.
+      - Helped extend the company's internal framework by developing a dashboard to monitor __ETL__ execution logs. The ETL processes were designed, managed, and executed using Pentaho Data Integration.
     main_tools: Pentaho Data Integration
 
 skills:
